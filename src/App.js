@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Menu />
-      <logo />
+      {/* <Logo /> */}
       <h1>Texto dentro do "App.js"</h1>
     </div>
   );
